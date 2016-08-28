@@ -6,7 +6,9 @@ package com.wangshuo.javaDemo.io;
 public class TestBufferStream {
        public static void main(String args[]){
            System.out.println("");
+           //111111
            //222222
+           //333333
 
        }
 }
