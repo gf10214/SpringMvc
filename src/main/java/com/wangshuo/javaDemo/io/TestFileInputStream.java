@@ -34,7 +34,6 @@ public class TestFileInputStream {
         } catch (IOException e) {
             e.printStackTrace();
             System.out.println("文件读取有误！");
-            //aaaaaaa
         }
     }
 }
