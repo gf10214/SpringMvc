@@ -19,6 +19,7 @@ public class TestFileInputStream {
             e.printStackTrace();
             System.out.println("系统找不到指定文件！");
             System.exit(-1);
+            //AAAAAAA
         }
         long num=0;
         try {
