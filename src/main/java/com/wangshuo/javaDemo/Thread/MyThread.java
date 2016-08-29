@@ -8,6 +8,7 @@ import java.util.Date;
 public class MyThread extends Thread {
     boolean flag=true;
     public void run() {
+        //bbbb
         /*
          * 注意：这里不能在run()方法的后面直接写throw Exception来抛异常，
          * 因为现在是要重写从Thread类继承而来的run()方法,重写方法不能抛出比被重写的方法的不同的异常。
